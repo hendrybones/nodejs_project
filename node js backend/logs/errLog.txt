@@ -1,0 +1,19 @@
+Tue Apr 12 2022 05:02:54 GMT+0300 (East Africa Time))} 	c5f77cc6-ab7c-483b-a0cd-0081d09d7df6 	TypeError	 fsPromises.readFil is not a function
+Wed Apr 13 2022 06:57:33 GMT+0300 (East Africa Time) 	a5748946-b360-4f38-89b3-c1527e49d756 	Error: Not allowed by cors
+Wed Apr 13 2022 08:11:29 GMT+0300 (East Africa Time) 	4ac7a5a8-5d88-416f-923b-e8a672480c3d 	Error: ENOENT: no such file or directory, stat '/home/bones/Desktop/packages/views/subdir/index.html'
+Wed Apr 13 2022 08:18:47 GMT+0300 (East Africa Time) 	8ee5635c-23ed-470a-8fc9-a25a0c55e0a3 	Error: ENOENT: no such file or directory, stat '/home/bones/Desktop/packages/views/subdir/index.html'
+Wed Apr 13 2022 08:18:47 GMT+0300 (East Africa Time) 	2616ee13-4cf8-430a-b011-af7f7148c8de 	Error: ENOENT: no such file or directory, stat '/home/bones/Desktop/packages/views/subdir/index.html'
+Wed Apr 13 2022 08:18:47 GMT+0300 (East Africa Time) 	cb330861-cceb-422d-967f-c2c11380d7d6 	Error: ENOENT: no such file or directory, stat '/home/bones/Desktop/packages/views/subdir/index.html'
+Wed Apr 13 2022 08:28:56 GMT+0300 (East Africa Time) 	76922e4a-a73c-4cdd-b0c3-8eebd39d1c67 	Error: ENOENT: no such file or directory, stat '/home/bones/Desktop/packages/views/subdir/index.html'
+Wed Apr 13 2022 08:32:56 GMT+0300 (East Africa Time) 	7793af7c-1858-4490-8736-81604ae8de97 	Error: ENOENT: no such file or directory, stat '/home/bones/Desktop/packages/views/subdir/index.html'
+Wed Apr 13 2022 08:34:22 GMT+0300 (East Africa Time) 	4fb745ea-43a7-41f3-a489-6d3107f029bd 	Error: ENOENT: no such file or directory, stat '/home/bones/Desktop/packages/views/subdir/index.html'
+Wed Apr 13 2022 08:35:49 GMT+0300 (East Africa Time) 	82bcec72-c7b2-427f-8eda-e343f3eca62a 	Error: ENOENT: no such file or directory, stat '/home/bones/Desktop/packages/views/subdir/index.html'
+Wed Apr 13 2022 08:37:15 GMT+0300 (East Africa Time) 	d5caf319-eef4-4870-9687-4143536d96b1 	Error: ENOENT: no such file or directory, stat '/home/bones/Desktop/packages/views/subdir/index.html'
+Wed Apr 13 2022 08:37:15 GMT+0300 (East Africa Time) 	08e69412-8cf2-4f5d-af8e-5556304824af 	Error: ENOENT: no such file or directory, stat '/home/bones/Desktop/packages/views/subdir/index.html'
+Wed Apr 13 2022 11:09:22 GMT+0300 (East Africa Time) 	7f8f3ad8-c159-4477-a0a8-3a84afb72fca 	TypeError: Cannot read properties of undefined (reading 'id')
+Wed Apr 13 2022 11:09:22 GMT+0300 (East Africa Time) 	a2d32263-f153-40b5-8950-12ff04112a50 	TypeError: Cannot read properties of undefined (reading 'id')
+Thu Apr 14 2022 18:23:57 GMT+0300 (East Africa Time) 	0bc235b2-3a39-428b-beba-2c09a2c044f6 	ReferenceError: whitelist is not defined
+Tue Apr 19 2022 16:10:58 GMT+0300 (East Africa Time) 	81b6d509-7439-4a96-bb00-82739557cb83 	TypeError: authHeader?.startWith is not a function
+Tue Apr 19 2022 17:26:48 GMT+0300 (East Africa Time) 	dd127f0e-c0bd-4663-bc7d-1f25323b81a5 	TypeError: authHeader?.startWith is not a function
+Tue Apr 19 2022 17:34:03 GMT+0300 (East Africa Time) 	a9ef96dc-24c5-4f3b-899e-cd9f43234bc4 	TypeError: Cannot read properties of undefined (reading 'username')
+Tue Apr 19 2022 17:39:44 GMT+0300 (East Africa Time) 	f9cadf14-44c0-4463-a35a-99e04d84937d 	TypeError: Cannot read properties of undefined (reading 'username')

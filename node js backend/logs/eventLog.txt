@@ -1,0 +1,7 @@
+Mon Apr 11 2022 16:51:01 GMT+0300 (East Africa Time))} 	0adb92fb-8d45-4cb2-b378-4ab10b9b276b 	Log event emmited!
+Mon Apr 11 2022 16:51:30 GMT+0300 (East Africa Time))} 	041a94a4-e45c-45a7-8069-25f1a2ea2fc7 	Log event emmited!
+Mon Apr 11 2022 16:54:58 GMT+0300 (East Africa Time))} 	fccc4ad9-b499-49f8-8297-e63eb2efcfc4 	Log event emmited!
+Mon Apr 11 2022 16:56:12 GMT+0300 (East Africa Time))} 	a39a2e4a-ab8d-418b-9afc-e6be935b59e7 	Log event emmited!
+Mon Apr 11 2022 17:28:29 GMT+0300 (East Africa Time))} 	1ebc6b9a-b535-492a-8026-0a08b13937c9 	Log event emmited!
+Mon Apr 11 2022 17:31:50 GMT+0300 (East Africa Time))} 	b03acd9e-d128-453c-a53f-e0a444dd4201 	Log event emmited!
+Mon Apr 11 2022 17:31:50 GMT+0300 (East Africa Time))} 	05c636ae-801b-4880-b6dc-c8e88d9b8341 	Log event emmited!
